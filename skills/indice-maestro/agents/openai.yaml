@@ -1,0 +1,4 @@
+interface:
+  display_name: "Índice maestro de libros"
+  short_description: "Fusiona índices en una tabla con procedencia íntegra"
+  default_prompt: "Usa $indice-maestro para fusionar los índices adjuntos en una tabla con una columna por libro, títulos originales completos y control de cobertura del 100 %."
