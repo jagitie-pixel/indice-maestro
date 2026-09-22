@@ -1,0 +1,18 @@
+{
+  "name": "indice-maestro",
+  "version": "0.1.0+codex.20260922082425",
+  "description": "Fusiona \u00edndices en una tabla maestra con procedencia \u00edntegra y auditor\u00eda de cobertura del 100 %.",
+  "author": {
+    "name": "Local developer"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "\u00cdndice maestro de libros",
+    "shortDescription": "Tabla maestra por libros con procedencia \u00edntegra.",
+    "longDescription": "Fusiona \u00edndices en espa\u00f1ol, conserva todos los n\u00fameros y t\u00edtulos originales en columnas por libro e incluye pendientes y control de cobertura completo.",
+    "developerName": "Local developer",
+    "category": "Productivity",
+    "capabilities": [],
+    "defaultPrompt": "Crea una tabla de \u00edndice maestro con los \u00edndices adjuntos, una columna por libro y cobertura del 100 % de los apartados originales."
+  }
+}
